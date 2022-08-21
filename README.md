@@ -1,5 +1,5 @@
 # catbot-database
-A database for custom catbot navbotbot paths.
+A database for custom catbot navbot paths.
 Be sure to put you nav meshes into your /tf/maps/ folder.
 
 ## Automated Nav Mesh install
